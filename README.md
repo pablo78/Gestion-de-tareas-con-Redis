@@ -3,6 +3,7 @@
 # Objetivo:
 Desarrollar una aplicación sencilla de gestión de tareas (to-do list) utilizando Redis como base de datos.
 # Descripción:
-Los estudiantes formaran equipos para crear una aplicación básica que permita a los usuarios
-añadir, eliminar y marcar tareas como completadas. La aplicación deberá usar Redis para
-almacenar y recuperar estas tareas.
+Se hace una caraga a cache con mysql y se gestiona en memoria con Redis
+Se uso Python para programar
+# Resultado
+![image](https://github.com/pablo78/Redis/assets/5117110/e87c09bb-f545-4f65-ae71-2db86e06aac5)
